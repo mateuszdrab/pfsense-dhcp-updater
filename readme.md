@@ -70,3 +70,7 @@ The script will output each obtained lease and the corresponding DNS records tha
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Includes `pypfsense` module from the repository [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense)
